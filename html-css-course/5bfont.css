@@ -1,0 +1,12 @@
+.video-title{
+  font-family: Arial;
+  font-size: 40px;
+  font-style: bold;
+  margin-bottom: 0;
+}
+.video-description{
+  color: red;
+  font-style: oblique;
+  font-size: 20px;
+  margin-top: 0;
+}

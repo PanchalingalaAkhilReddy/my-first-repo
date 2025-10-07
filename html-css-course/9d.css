@@ -1,0 +1,16 @@
+.hard{
+  background-color: black;
+  width: 250px;
+  height: 100px;
+}
+.video-title{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.video-desc{
+  font-size: 12px;
+  
+  
+  color: azure;
+}
